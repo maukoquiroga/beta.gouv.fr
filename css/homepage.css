@@ -78,6 +78,6 @@ body {
 	}
 
 	.large.screen.only {
-		display: none;
+		display: none !important;
 	}
 }
